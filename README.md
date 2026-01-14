@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello! I'm Ruth Waithira 👋
 
-<!--
-**wai-thira/wai-thira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-Focused Developer | ISC² CC Certified | Final Year IT Student
 
-Here are some ideas to get you started:
+📍 Thika, Kenya  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 ruthnjeri1409@gmail.com  
+
+📞 +254 713 507 808  
+
+   🔐 My Security Project
+
+National Population Registration System(https://github.com/wai-thira) 
+
+A secure online census system for my final year project.
+
+- 🏆 Awarded "Very Good & Impressive System"
+- 
+- 🔒 Implemented CIA triad, RBAC, bcrypt hashing
+- 
+- 💻 Built with PHP, MySQL, HTML, CSS, JavaScript  
+
+   🎓 Currently
+- Studying BSc Information Technology at Mount Kenya University
+  
+- Passed ISC² Certified in Cybersecurity (CC) exam
+  
+- Seeking internships/industrial attachments
+
+   📫 Let's Connect
+- LinkedIn:
+  https://linkedin.com/in/ruth-waithira
+  
+- Email:
+ ruthnjeri1409@gmail.com
+
