@@ -14,9 +14,9 @@ National Population Registration System(https://github.com/wai-thira)
 A secure online census system for my final year project.
 
 - 🏆 Awarded "Very Good & Impressive System"
-- 
+
 - 🔒 Implemented CIA triad, RBAC, bcrypt hashing
-- 
+
 - 💻 Built with PHP, MySQL, HTML, CSS, JavaScript  
 
    🎓 Currently
