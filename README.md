@@ -6,7 +6,6 @@ Security-Focused Developer | ISC² CC Certified | Final Year IT Student
 
 📧 ruthnjeri1409@gmail.com  
 
-📞 +254 713 507 808  
 
    🔐 My Security Project
 
