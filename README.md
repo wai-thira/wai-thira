@@ -1,6 +1,6 @@
 # Hello! I'm Ruth Waithira 👋
 
-Security-Focused Developer | ISC² CC Certified | Final Year IT Student
+Security-Focused Developer | ISC² CC Exam passed | Final Year IT Student
 
 📍 Thika, Kenya  
 
