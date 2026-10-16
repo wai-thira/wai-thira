@@ -1,6 +1,6 @@
 👋 Hello, I'm Ruth Waithira
 
-Network Engineer | ISC2 Certified in Cybersecurity (CC) | Final Year BSc IT Student
+Network Engineer | ISC2 Certified in Cybersecurity (CC) | Full Stack Developer | Software Testing & QA specialist 
 
 🔗 [LinkedIn](https://linkedin.com/in/ruth-waithira)
 
